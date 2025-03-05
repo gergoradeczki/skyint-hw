@@ -1,0 +1,11 @@
+{
+  "name": "skyint-hw",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "engines": {
+    "node": "^22",
+    "pnpm": "^10"
+  }
+}
