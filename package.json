@@ -2,7 +2,8 @@
   "name": "skyint-hw",
   "version": "1.0.0",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "dev:web": "pnpm --filter web run dev",
+    "dev:server": "pnpm --filter server run dev"
   },
   "engines": {
     "node": "^22",
